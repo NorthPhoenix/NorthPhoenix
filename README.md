@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm <strong>Nikita Istomin</strong> from Austin TX,<br><br>- 🔭 I’m working as <strong>Web Developer</strong>.<br>- 📚 I was born in <strong>Russia</strong> and immigrated to US at the age of 15.<br>- ⚡ In my free time I play <strong>videogames</strong>, go out with <strong>friends</strong>, and build tech <strong>side projects</strong>.</p>
+<p align="left">I'm <strong>Full-stack Web Developer</strong>, based in Plano TX,<br><br>- 🔭 I love trying new <strong>technologies</strong> and learning new <strong>skills</strong>.<br>- 📚 I was born in <strong>Russia</strong> and immigrated to US at the age of 15.<br>- ⚡ In my free time I play <strong>videogames</strong>, go out with <strong>friends</strong>, and build tech <strong>side projects</strong>.</p>
 
 ###
 
